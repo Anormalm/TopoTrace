@@ -1,0 +1,10 @@
+gudhi
+ripser
+scikit-tda
+numpy
+matplotlib
+streamlit
+scikit-learn
+torch
+torch-geometric
+pandas
